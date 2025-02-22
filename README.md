@@ -30,7 +30,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<h3>My GitHub contributions summary</h3>
+<h3>My GitHub contributions summary:</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ceejprogram&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
