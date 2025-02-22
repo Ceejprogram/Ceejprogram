@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Clark!
 
-![](https://komarev.com/ghpvc/?username=Ceejprogram&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Ceejprogram&style=for-the-badge&abbreviated=true&color=fb4362)
 
 <h3>While working on development, I utilize:</h3>
 <p>
