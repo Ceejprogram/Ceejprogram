@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Clark!
 
-![](https://komarev.com/ghpvc/?username=Ceejprogram)
+![](https://komarev.com/ghpvc/?username=Ceejprogram&style=for-the-badge&abbreviated=true)
 <!--
 **Ceejprogram/Ceejprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
